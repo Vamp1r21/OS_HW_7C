@@ -1,0 +1,16 @@
+C:\Users\Vampir\source\repos\OS_HW_7C\OS_HW_7C\bin\Debug\net5.0\OS_HW_7C.exe
+C:\Users\Vampir\source\repos\OS_HW_7C\OS_HW_7C\bin\Debug\net5.0\OS_HW_7C.deps.json
+C:\Users\Vampir\source\repos\OS_HW_7C\OS_HW_7C\bin\Debug\net5.0\OS_HW_7C.runtimeconfig.json
+C:\Users\Vampir\source\repos\OS_HW_7C\OS_HW_7C\bin\Debug\net5.0\OS_HW_7C.runtimeconfig.dev.json
+C:\Users\Vampir\source\repos\OS_HW_7C\OS_HW_7C\bin\Debug\net5.0\OS_HW_7C.dll
+C:\Users\Vampir\source\repos\OS_HW_7C\OS_HW_7C\bin\Debug\net5.0\ref\OS_HW_7C.dll
+C:\Users\Vampir\source\repos\OS_HW_7C\OS_HW_7C\bin\Debug\net5.0\OS_HW_7C.pdb
+C:\Users\Vampir\source\repos\OS_HW_7C\OS_HW_7C\obj\Debug\net5.0\OS_HW_7C.csproj.AssemblyReference.cache
+C:\Users\Vampir\source\repos\OS_HW_7C\OS_HW_7C\obj\Debug\net5.0\OS_HW_7C.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vampir\source\repos\OS_HW_7C\OS_HW_7C\obj\Debug\net5.0\OS_HW_7C.AssemblyInfoInputs.cache
+C:\Users\Vampir\source\repos\OS_HW_7C\OS_HW_7C\obj\Debug\net5.0\OS_HW_7C.AssemblyInfo.cs
+C:\Users\Vampir\source\repos\OS_HW_7C\OS_HW_7C\obj\Debug\net5.0\OS_HW_7C.csproj.CoreCompileInputs.cache
+C:\Users\Vampir\source\repos\OS_HW_7C\OS_HW_7C\obj\Debug\net5.0\OS_HW_7C.dll
+C:\Users\Vampir\source\repos\OS_HW_7C\OS_HW_7C\obj\Debug\net5.0\ref\OS_HW_7C.dll
+C:\Users\Vampir\source\repos\OS_HW_7C\OS_HW_7C\obj\Debug\net5.0\OS_HW_7C.pdb
+C:\Users\Vampir\source\repos\OS_HW_7C\OS_HW_7C\obj\Debug\net5.0\OS_HW_7C.genruntimeconfig.cache
